@@ -1,6 +1,5 @@
 {
   "name": "tech-quiz",
-  "homepage": "https://blackstone8960.github.io/quiz-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
