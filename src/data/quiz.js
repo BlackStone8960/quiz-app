@@ -44,7 +44,48 @@ const content = {
       answer: "false",
     },
   ],
-  js: [],
+  js: [
+    {
+      question: "map method returns an array",
+      answer: "true",
+    },
+    {
+      question: "function is object",
+      answer: "true",
+    },
+    {
+      question: "You can not assign function to variable",
+      answer: "false",
+    },
+    {
+      question: "You can not do object oriented programming in Javascript",
+      answer: "false",
+    },
+    {
+      question: "You can catch errors by catch method",
+      answer: "true",
+    },
+    {
+      question: "You can assign new values to variable defined with const",
+      answer: "false",
+    },
+    {
+      question: "null === undefined will be true",
+      answer: "false",
+    },
+    {
+      question: "You can access ofject's children by dot(.)",
+      answer: "true",
+    },
+    {
+      question: "a += b means a + b",
+      answer: "false",
+    },
+    {
+      question: "a = 1 means a equals 1",
+      answer: "false",
+    },
+  ],
 };
 
 export default content;
